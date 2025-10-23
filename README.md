@@ -1,1 +1,2 @@
-
+# Računalniški praktikum
+ctrl+o (odpre datoteko), ctrl+n (naredi novo datoteko), shift+ins (ekvivalentno ctrl+v v gitbashu) ctrl+ins (ekvivalentno ctrl+c v gitbashu)...
